@@ -201,5 +201,5 @@ mypromise.then((sottho)=>{
   console.log(mittha);
 })*/
 
-// try...catch***
+
 
